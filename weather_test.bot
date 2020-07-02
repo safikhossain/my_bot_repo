@@ -1,0 +1,18 @@
+{
+    "name": "weather_test",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "4fc375c0-bc40-11ea-8b9d-a32467a18a65",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\shossain\\Documents\\Projects\\Chatbot Sourav\\Azure\\weatherbot\\weather_test.bot"
+}
