@@ -21,7 +21,26 @@ class LuisConnect(ActivityHandler):
         weather_info=WeatherInformation()
         luis_result = await self.luis_recognizer.recognize(turn_context)
         result = luis_result.properties["luisResult"]
-        json_str = json.loads((str(result.entities[0])).replace("'", "\""))
-        weather=weather_info.get_weather_info(json_str.get('entity'))
-        self.log.write_log(sessionID='session1',log_message="Bot Says: "+str(weather))
-        await turn_context.send_activity(f"{weather}")
+        #json_str = json.loads((str(result.entities[0])).replace("'", "\""))
+        #weather=weather_info.get_weather_info(json_str.get('entity'))
+        #self.log.write_log(sessionID='session1',log_message="Bot Says: "+str(weather))
+        #await turn_context.send_activity(f"{weather}")
+
+        check = json.loads((str(result.intents[0])).replace("'", "\""))
+        if check.get('intent') == 'Welcome':
+            await turn_context.send_activity(f"Hello, I can help you know the weather of any city")
+            #print("Welcome")
+        elif check.get('intent') == 'weather': 
+            json_str = json.loads((str(result.entities[0])).replace("'", "\""))
+            weather=weather_info.get_weather_info(json_str.get('entity'))
+            self.log.write_log(sessionID='session1',log_message="Bot Says: "+str(weather))
+            await turn_context.send_activity(f"{weather}")
+        else:
+            json_str = json.loads((str(result.entities[0])).replace("'", "\""))
+            weather=weather_info.get_weather_data(json_str.get('entity'))
+            self.log.write_log(sessionID='session1',log_message="Bot Says: "+str(weather))
+            await turn_context.send_activity(f"{weather}")
+
+
+
+    

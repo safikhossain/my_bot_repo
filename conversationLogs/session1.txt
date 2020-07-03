@@ -105,3 +105,785 @@ Humidity :49%
  Maximum Temperature :26.0 degree celsius.
  Minimum Temperature :26.0 degree celsius. . 
  Humidity: 78
+2020-07-02/20:08:43		user says: {'additional_properties': {}, 'type': 'message', 'id': 'ba3f5320-bc71-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 38, 43, 26000, tzinfo=<isodate.tzinfo.Utc object at 0x000001D75C904070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 8, 43, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001D75DBA43D0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001D75DBB38B0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001D75DBB33D0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'how is Bangalore weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937007229730jght3xyb3he', 'clientTimestamp': '2020-07-02T14:38:42.974Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:09:24		user says: {'additional_properties': {}, 'type': 'message', 'id': 'd3133880-bc71-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 39, 24, 680000, tzinfo=<isodate.tzinfo.Utc object at 0x0000025C036A4070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 9, 24, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025C048FA6A0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000025C048FAB20>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025C048FAE50>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'how is Bangalore weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937007646664csestu6c5j', 'clientTimestamp': '2020-07-02T14:39:24.666Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:21:16		user says: {'additional_properties': {}, 'type': 'message', 'id': '7b27faa0-bc73-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 51, 16, 170000, tzinfo=<isodate.tzinfo.Utc object at 0x0000017CEC894070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 21, 16, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDAE9700>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000017CEDAE9B80>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDAE9EB0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'how is Bangalore weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937014761568auojwnenbq', 'clientTimestamp': '2020-07-02T14:51:16.157Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:21:41		user says: {'additional_properties': {}, 'type': 'message', 'id': '8a0bc6f0-bc73-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 51, 41, 151000, tzinfo=<isodate.tzinfo.Utc object at 0x0000017CEC894070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 21, 41, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDB33790>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000017CEDB604F0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDB60460>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'what is the weather in Mumbai', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593701501147klcvjk1rxg', 'clientTimestamp': '2020-07-02T14:51:41.147Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:21:42		Bot Says: Today the weather in mumbai.
+ Maximum Temperature :29.0 degree celsius.
+ Minimum Temperature :29.0 degree celsius. . 
+ Humidity: 89
+2020-07-02/20:22:32		user says: {'additional_properties': {}, 'type': 'message', 'id': 'a864a310-bc73-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 52, 32, 65000, tzinfo=<isodate.tzinfo.Utc object at 0x0000017CEC894070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 22, 32, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDB6C7C0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000017CEDB6C490>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDB6C7F0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593701552061paaki96gbfl', 'clientTimestamp': '2020-07-02T14:52:32.061Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:22:33		Bot Says: Today the weather in kolkata.
+ Maximum Temperature :32.0 degree celsius.
+ Minimum Temperature :32.0 degree celsius. . 
+ Humidity: 79
+2020-07-02/20:28:31		user says: {'additional_properties': {}, 'type': 'message', 'id': '7e5613a0-bc74-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 58, 31, 2000, tzinfo=<isodate.tzinfo.Utc object at 0x0000017CEC894070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 28, 31, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDC2DF40>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000017CEDC2D940>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDC2D4F0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937019109963fn5s4qj59s', 'clientTimestamp': '2020-07-02T14:58:30.996Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:29:51		user says: {'additional_properties': {}, 'type': 'message', 'id': 'ae59a440-bc74-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 14, 59, 51, 556000, tzinfo=<isodate.tzinfo.Utc object at 0x0000017CEC894070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 29, 51, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDC45580>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000017CEDC45D00>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000017CEDC45CD0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593701991550xqs4ail8hua', 'clientTimestamp': '2020-07-02T14:59:51.550Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:29:52		Bot Says: Today the weather in kolkata.
+ Maximum Temperature :32.0 degree celsius.
+ Minimum Temperature :32.0 degree celsius. . 
+ Humidity: 79
+2020-07-02/20:30:24		user says: {'additional_properties': {}, 'type': 'message', 'id': 'c1d87c80-bc74-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 0, 24, 264000, tzinfo=<isodate.tzinfo.Utc object at 0x0000016A1F9E4070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 30, 24, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000016A20C39700>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000016A20C39B80>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000016A20C39EB0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702024256cbgcq2hhwtk', 'clientTimestamp': '2020-07-02T15:00:24.256Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:31:25		user says: {'additional_properties': {}, 'type': 'message', 'id': 'e64fd040-bc74-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 1, 25, 444000, tzinfo=<isodate.tzinfo.Utc object at 0x0000024B41914070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 31, 25, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000024B42B6C640>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000024B42B6CAC0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000024B42B6CDF0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702085440eybws2n2kyw', 'clientTimestamp': '2020-07-02T15:01:25.440Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:32:36		user says: {'additional_properties': {}, 'type': 'message', 'id': '106a5120-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 2, 36, 81000, tzinfo=<isodate.tzinfo.Utc object at 0x000001FAE5224070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 32, 36, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001FAE6479700>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001FAE6479B80>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001FAE6479EB0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702156078ypxrv0is92', 'clientTimestamp': '2020-07-02T15:02:36.078Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:33:29		user says: {'additional_properties': {}, 'type': 'message', 'id': '30168840-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 3, 29, 219000, tzinfo=<isodate.tzinfo.Utc object at 0x00000205836A4070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 33, 29, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000205848F9700>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000205848F9B80>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000205848F9EB0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702209213dt6kr3h2s1', 'clientTimestamp': '2020-07-02T15:03:29.213Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:34:00		user says: {'additional_properties': {}, 'type': 'message', 'id': '42801ff0-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 4, 0, 111000, tzinfo=<isodate.tzinfo.Utc object at 0x00000205836A4070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 34, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000205848F94C0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000205848F9340>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000205848F9400>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702240108ogeo0ny8b5b', 'clientTimestamp': '2020-07-02T15:04:00.108Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:36:00		user says: {'additional_properties': {}, 'type': 'message', 'id': '8a5f5340-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 6, 0, 692000, tzinfo=<isodate.tzinfo.Utc object at 0x000001E913314070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 36, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001E91456C640>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001E91456CAC0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001E91456CDF0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702360687944qlhw3mat', 'clientTimestamp': '2020-07-02T15:06:00.687Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:38:02		user says: {'additional_properties': {}, 'type': 'message', 'id': 'd31cffb0-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 8, 2, 731000, tzinfo=<isodate.tzinfo.Utc object at 0x000001A1C4674070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 38, 2, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001A1C58DC640>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001A1C58DCAC0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001A1C58DCDF0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702482726nrgkjbckt8a', 'clientTimestamp': '2020-07-02T15:08:02.726Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:38:45		user says: {'additional_properties': {}, 'type': 'message', 'id': 'ecd6ff50-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 8, 45, 893000, tzinfo=<isodate.tzinfo.Utc object at 0x000001DD86D24070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 38, 45, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001DD87F7A6D0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001DD87F7AB50>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001DD87F7AE80>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702525890oi9aejmk3lh', 'clientTimestamp': '2020-07-02T15:08:45.890Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:38:56		user says: {'additional_properties': {}, 'type': 'message', 'id': 'f368f940-bc75-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 8, 56, 916000, tzinfo=<isodate.tzinfo.Utc object at 0x000001DD86D24070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 38, 56, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001DD87F7A490>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001DD87F7A310>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001DD87F7A3D0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702536913kc59aypegaa', 'clientTimestamp': '2020-07-02T15:08:56.913Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:39:52		user says: {'additional_properties': {}, 'type': 'message', 'id': '144aa320-bc76-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 9, 52, 82000, tzinfo=<isodate.tzinfo.Utc object at 0x00000268445B4070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 39, 52, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002684580A6A0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002684580AB20>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002684580AE50>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937025920788hnv88vud4h', 'clientTimestamp': '2020-07-02T15:09:52.078Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:40:10		user says: {'additional_properties': {}, 'type': 'message', 'id': '1f6b25e0-bc76-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 10, 10, 750000, tzinfo=<isodate.tzinfo.Utc object at 0x00000268445B4070>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 40, 10, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000026845880CA0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000026845880910>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000268458808B0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702610746cdzoh3z0onl', 'clientTimestamp': '2020-07-02T15:10:10.746Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:42:18		user says: {'additional_properties': {}, 'type': 'message', 'id': '6b441c10-bc76-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 12, 18, 1000, tzinfo=<isodate.tzinfo.Utc object at 0x00000218FCC250A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 42, 18, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000218FDED11F0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000218FDED1670>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000218FDED19A0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593702737996j3q816w7wfh', 'clientTimestamp': '2020-07-02T15:12:17.996Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:47:52		user says: {'additional_properties': {}, 'type': 'message', 'id': '326d5ea0-bc77-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 17, 52, 138000, tzinfo=<isodate.tzinfo.Utc object at 0x0000025CB07150A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 47, 52, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025CB19BF250>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000025CB19BF6D0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025CB19BFA00>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593703072128jm10kuac7s', 'clientTimestamp': '2020-07-02T15:17:52.128Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:48:14		user says: {'additional_properties': {}, 'type': 'message', 'id': '3fb79f30-bc77-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 18, 14, 435000, tzinfo=<isodate.tzinfo.Utc object at 0x0000025CB07150A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 48, 14, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025CB1A2F2B0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000025CB1A2F2E0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025CB1A2F490>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me Kolkata weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593703094431uiu6uho2skm', 'clientTimestamp': '2020-07-02T15:18:14.431Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:48:15		Bot Says: Today the weather in kolkata.
+ Maximum Temperature :31.0 degree celsius.
+ Minimum Temperature :31.0 degree celsius. . 
+ Humidity: 84
+2020-07-02/20:49:06		user says: {'additional_properties': {}, 'type': 'message', 'id': '5ec57370-bc77-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 19, 6, 535000, tzinfo=<isodate.tzinfo.Utc object at 0x000001B6110050A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 49, 6, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001B6122AF250>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001B6122AF6D0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001B6122AFA00>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593703146530tor6j0tnxd', 'clientTimestamp': '2020-07-02T15:19:06.530Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:50:56		user says: {'additional_properties': {}, 'type': 'message', 'id': 'a0795de0-bc77-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 20, 56, 765000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 50, 56, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B712F1F0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B712F670>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B712F9A0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593703256759ghb0j088cu', 'clientTimestamp': '2020-07-02T15:20:56.759Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:53:42		user says: {'additional_properties': {}, 'type': 'message', 'id': '037f4030-bc78-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 23, 42, 899000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 53, 42, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B712FB50>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B712F4F0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B712FDC0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937034228959myyza0nbki', 'clientTimestamp': '2020-07-02T15:23:42.895Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:53:56		user says: {'additional_properties': {}, 'type': 'message', 'id': '0b6cf990-bc78-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 15, 23, 56, 201000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 20, 53, 56, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B719FFD0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B719F3A0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B719F250>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me weather for Kolkata', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593703436197hvmqpc5bb8g', 'clientTimestamp': '2020-07-02T15:23:56.197Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/20:53:57		Bot Says: Today the weather in kolkata.
+ Maximum Temperature :31.0 degree celsius.
+ Minimum Temperature :31.0 degree celsius. . 
+ Humidity: 84
+2020-07-02/21:51:09		user says: {'additional_properties': {}, 'type': 'message', 'id': '09c14bc0-bc80-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 16, 21, 9, 371000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 21, 51, 9, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B7153A00>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B7153EB0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B7153EE0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Hello', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937068692943c2pqb9o1ry', 'clientTimestamp': '2020-07-02T16:21:09.296Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/21:51:28		user says: {'additional_properties': {}, 'type': 'message', 'id': '15393d50-bc80-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 16, 21, 28, 612000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 21, 51, 28, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B71B5C40>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B7180EE0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B712FA30>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Show me weather of Mumbai', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593706888606oby6t5nr48d', 'clientTimestamp': '2020-07-02T16:21:28.606Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/21:51:29		Bot Says: Today the weather in mumbai.
+ Maximum Temperature :29.0 degree celsius.
+ Minimum Temperature :29.0 degree celsius. . 
+ Humidity: 83
+2020-07-02/21:51:44		user says: {'additional_properties': {}, 'type': 'message', 'id': '1eb1dc70-bc80-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 16, 21, 44, 503000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 21, 51, 44, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B71C0130>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B71C0F40>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B71C0E80>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me weather of Delhi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593706904497tqascheo40r', 'clientTimestamp': '2020-07-02T16:21:44.497Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/21:51:45		Bot Says: Today the weather in delhi.
+ Maximum Temperature :36.0 degree celsius.
+ Minimum Temperature :36.0 degree celsius. . 
+ Humidity: 56
+2020-07-02/21:52:10		user says: {'additional_properties': {}, 'type': 'message', 'id': '2dfc80e0-bc80-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 16, 22, 10, 158000, tzinfo=<isodate.tzinfo.Utc object at 0x00000265B5E750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 21, 52, 10, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B71B53D0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000265B71B51F0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000265B71B59D0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593706930152crel0zku3u', 'clientTimestamp': '2020-07-02T16:22:10.152Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/21:52:11		Bot Says: Today the weather in bangalore.
+ Maximum Temperature :22.0 degree celsius.
+ Minimum Temperature :22.0 degree celsius. . 
+ Humidity: 100
+2020-07-02/22:21:40		user says: {'additional_properties': {}, 'type': 'message', 'id': '4cedf6b0-bc84-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 16, 51, 40, 59000, tzinfo=<isodate.tzinfo.Utc object at 0x000002440D8150A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 22, 21, 40, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002440EACC280>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002440EACC700>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002440EACCA30>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593708700049muisatbfh5h', 'clientTimestamp': '2020-07-02T16:51:40.049Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/22:50:07		user says: {'additional_properties': {}, 'type': 'message', 'id': '469ba100-bc88-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 17, 20, 7, 439000, tzinfo=<isodate.tzinfo.Utc object at 0x00000256C9A350A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 22, 50, 7, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000256CACDF220>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000256CACDF6A0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000256CACDF9D0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593710407390bgcp1jligv9', 'clientTimestamp': '2020-07-02T17:20:07.390Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/22:51:29		user says: {'additional_properties': {}, 'type': 'message', 'id': '77932e90-bc88-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 17, 21, 29, 593000, tzinfo=<isodate.tzinfo.Utc object at 0x000002671C4C50A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 22, 51, 29, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002671D765910>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002671D765D90>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002671D765CA0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593710489587jow5fjm303o', 'clientTimestamp': '2020-07-02T17:21:29.587Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-02/22:52:09		user says: {'additional_properties': {}, 'type': 'message', 'id': '8f7cdb00-bc88-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 2, 17, 22, 9, 712000, tzinfo=<isodate.tzinfo.Utc object at 0x000001C0011750A0>), 'local_timestamp': datetime.datetime(2020, 7, 2, 22, 52, 9, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001C00241E4C0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001C00241E6D0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001C00241EA00>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593710529705incdmvt6scs', 'clientTimestamp': '2020-07-02T17:22:09.705Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/09:52:22		user says: {'additional_properties': {}, 'type': 'message', 'id': 'ca570f50-bce4-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 22, 22, 148000, tzinfo=<isodate.tzinfo.Utc object at 0x000001EB783E50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 9, 52, 22, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001EB79694460>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001EB796948E0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001EB79694C10>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '159375014210236fe6nfhdqr', 'clientTimestamp': '2020-07-03T04:22:22.102Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/09:52:42		user says: {'additional_properties': {}, 'type': 'message', 'id': 'd6a822d0-bce4-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 22, 42, 812000, tzinfo=<isodate.tzinfo.Utc object at 0x000001EB783E50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 9, 52, 42, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001EB79694250>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001EB79694220>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001EB79694070>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750162809v4cjse6p9b', 'clientTimestamp': '2020-07-03T04:22:42.809Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/09:54:39		user says: {'additional_properties': {}, 'type': 'message', 'id': '1c315830-bce5-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 24, 39, 475000, tzinfo=<isodate.tzinfo.Utc object at 0x0000023A001750A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 9, 54, 39, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000023A01418430>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000023A014188B0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000023A01418BE0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750279468n3trzoqgqf', 'clientTimestamp': '2020-07-03T04:24:39.468Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/09:55:53		user says: {'additional_properties': {}, 'type': 'message', 'id': '4828d670-bce5-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 25, 53, 239000, tzinfo=<isodate.tzinfo.Utc object at 0x000001DD513250A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 9, 55, 53, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001DD525D48E0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001DD525D44C0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001DD525D4760>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937503532352r0fxvae2h7', 'clientTimestamp': '2020-07-03T04:25:53.235Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/09:56:54		user says: {'additional_properties': {}, 'type': 'message', 'id': '6cd718b0-bce5-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 26, 54, 779000, tzinfo=<isodate.tzinfo.Utc object at 0x0000023C71B750A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 9, 56, 54, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000023C72E144C0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000023C72E14940>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000023C72E14C70>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750414775gzv11mf7wc', 'clientTimestamp': '2020-07-03T04:26:54.775Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/09:56:55		Bot Says: bangalore
+2020-07-03/10:00:11		user says: {'additional_properties': {}, 'type': 'message', 'id': 'e1cb6f40-bce5-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 30, 10, 996000, tzinfo=<isodate.tzinfo.Utc object at 0x00000288836A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 0, 10, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000028884944490>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000028884944910>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000028884944C40>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750610990fuho5v25ifp', 'clientTimestamp': '2020-07-03T04:30:10.990Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:00:12		Bot Says: <built-in method title of str object at 0x0000028884989AB0>
+2020-07-03/10:00:54		user says: {'additional_properties': {}, 'type': 'message', 'id': 'fbc64870-bce5-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 30, 54, 583000, tzinfo=<isodate.tzinfo.Utc object at 0x000002087D2650A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 0, 54, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002087E5044F0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002087E504970>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002087E504CA0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750654579ui7msxn7i2', 'clientTimestamp': '2020-07-03T04:30:54.579Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:00:55		Bot Says: <built-in method title of str object at 0x000002087E5438B0>
+2020-07-03/10:03:09		user says: {'additional_properties': {}, 'type': 'message', 'id': '4bf615a0-bce6-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 33, 9, 114000, tzinfo=<isodate.tzinfo.Utc object at 0x00000200E48A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 3, 9, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000200E5B444C0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x00000200E5B44940>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x00000200E5B44C70>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750789106z2epzy7ha38', 'clientTimestamp': '2020-07-03T04:33:09.106Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:03:10		Bot Says: Bangalore
+2020-07-03/10:03:59		user says: {'additional_properties': {}, 'type': 'message', 'id': '69c883b0-bce6-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 33, 59, 147000, tzinfo=<isodate.tzinfo.Utc object at 0x000002F5889550A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 3, 59, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002F589BF44F0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002F589BF4970>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002F589BF4CA0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750839143q6g51g3z66', 'clientTimestamp': '2020-07-03T04:33:59.143Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:04:26		user says: {'additional_properties': {}, 'type': 'message', 'id': '7a21b1f0-bce6-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 34, 26, 575000, tzinfo=<isodate.tzinfo.Utc object at 0x0000026E336D50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 4, 26, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000026E34974460>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000026E349748E0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000026E34974C10>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593750866570sss5saydu3', 'clientTimestamp': '2020-07-03T04:34:26.570Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:09:31		user says: {'additional_properties': {}, 'type': 'message', 'id': '300a4c70-bce7-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 39, 31, 767000, tzinfo=<isodate.tzinfo.Utc object at 0x000001E2AB4350A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 9, 31, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001E2B4A43B50>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001E2B4A43F70>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001E2B4A43B80>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '159375117175255msxgtimav', 'clientTimestamp': '2020-07-03T04:39:31.753Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:10:32		user says: {'additional_properties': {}, 'type': 'message', 'id': '54252850-bce7-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 40, 32, 340000, tzinfo=<isodate.tzinfo.Utc object at 0x000001C1C97C50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 10, 32, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001C1D2DD4D30>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001C1D2DD4FA0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001C1D2DD4C40>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937512323352f877sqlrie', 'clientTimestamp': '2020-07-03T04:40:32.335Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:11:36		user says: {'additional_properties': {}, 'type': 'message', 'id': '7a7c1180-bce7-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 41, 36, 664000, tzinfo=<isodate.tzinfo.Utc object at 0x000002AAAF3950A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 11, 36, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002AAB8A8DE50>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002AAB8AB9040>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002AAB8AB90A0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593751296657ebk02fhizcq', 'clientTimestamp': '2020-07-03T04:41:36.657Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:11:38		Bot Says: <table border="0" class="dataframe table table-striped table-responsive-sm table-sm resulttable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Date</th>
+      <th>City</th>
+      <th>Temp</th>
+      <th>max_temp</th>
+      <th>min_temp</th>
+      <th>Humid</th>
+      <th>Wind</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+2020-07-03/10:13:50		user says: {'additional_properties': {}, 'type': 'message', 'id': 'ca7899b0-bce7-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 43, 50, 859000, tzinfo=<isodate.tzinfo.Utc object at 0x000001D96D5750A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 13, 50, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001D976C95160>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000001D976C95190>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000001D976C951F0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937514308469ohvihjifwe', 'clientTimestamp': '2020-07-03T04:43:50.846Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:13:52		Bot Says: <table border="0" class="dataframe table table-striped table-responsive-sm table-sm resulttable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Date</th>
+      <th>City</th>
+      <th>Temp</th>
+      <th>max_temp</th>
+      <th>min_temp</th>
+      <th>Humid</th>
+      <th>Wind</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2020-06-01 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>35</td>
+      <td>35</td>
+      <td>26</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-02 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>34</td>
+      <td>34</td>
+      <td>20</td>
+      <td>61</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-03 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>23</td>
+      <td>64</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-04 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>28</td>
+      <td>60</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-05 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>27</td>
+      <td>63</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-06 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>22</td>
+      <td>60</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-07 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>34</td>
+      <td>34</td>
+      <td>19</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-08 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>19</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-09 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>19</td>
+      <td>63</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-10 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>24</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-11 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>21</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-12 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>23</td>
+      <td>64</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-13 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>19</td>
+      <td>61</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-14 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>37</td>
+      <td>37</td>
+      <td>26</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-15 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>40</td>
+      <td>40</td>
+      <td>23</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-16 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>28</td>
+      <td>60</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-17 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>30</td>
+      <td>30</td>
+      <td>27</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-18 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>27</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-19 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>18</td>
+      <td>61</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-20 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>23</td>
+      <td>60</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-21 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>27</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-22 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>18</td>
+      <td>63</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-23 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>40</td>
+      <td>40</td>
+      <td>25</td>
+      <td>63</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-24 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>18</td>
+      <td>64</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-25 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>21</td>
+      <td>61</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-26 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>28</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-27 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>35</td>
+      <td>35</td>
+      <td>28</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-28 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>20</td>
+      <td>63</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-29 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>24</td>
+      <td>61</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-30 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>19</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+2020-07-03/10:16:04		user says: {'additional_properties': {}, 'type': 'message', 'id': '19fbd330-bce8-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 46, 4, 258000, tzinfo=<isodate.tzinfo.Utc object at 0x0000025DDAD250A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 16, 4, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025DE4447130>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000025DE4447160>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000025DE44471C0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'What is the weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593751564243jsbv51orktn', 'clientTimestamp': '2020-07-03T04:46:04.243Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:16:05		Bot Says:                           Date       City  Temp  max_temp  min_temp  Humid  Wind
+0   2020-06-01 00:00:00.000000  Bangalore    35        35        26     62     9
+1   2020-06-02 00:00:00.000000  Bangalore    34        34        20     61     8
+2   2020-06-03 00:00:00.000000  Bangalore    36        36        23     64     9
+3   2020-06-04 00:00:00.000000  Bangalore    32        32        28     60     8
+4   2020-06-05 00:00:00.000000  Bangalore    33        33        27     63     9
+5   2020-06-06 00:00:00.000000  Bangalore    39        39        22     60     7
+6   2020-06-07 00:00:00.000000  Bangalore    34        34        19     64     8
+7   2020-06-08 00:00:00.000000  Bangalore    39        39        19     62     8
+8   2020-06-09 00:00:00.000000  Bangalore    36        36        19     63     7
+9   2020-06-10 00:00:00.000000  Bangalore    36        36        24     62     9
+10  2020-06-11 00:00:00.000000  Bangalore    31        31        21     62     8
+11  2020-06-12 00:00:00.000000  Bangalore    31        31        23     64     9
+12  2020-06-13 00:00:00.000000  Bangalore    33        33        19     61     8
+13  2020-06-14 00:00:00.000000  Bangalore    37        37        26     62     8
+14  2020-06-15 00:00:00.000000  Bangalore    40        40        23     64     8
+15  2020-06-16 00:00:00.000000  Bangalore    31        31        28     60     8
+16  2020-06-17 00:00:00.000000  Bangalore    30        30        27     64     8
+17  2020-06-18 00:00:00.000000  Bangalore    33        33        27     62     9
+18  2020-06-19 00:00:00.000000  Bangalore    31        31        18     61     9
+19  2020-06-20 00:00:00.000000  Bangalore    33        33        23     60     7
+20  2020-06-21 00:00:00.000000  Bangalore    32        32        27     62     8
+21  2020-06-22 00:00:00.000000  Bangalore    32        32        18     63     7
+22  2020-06-23 00:00:00.000000  Bangalore    40        40        25     63     8
+23  2020-06-24 00:00:00.000000  Bangalore    39        39        18     64     9
+24  2020-06-25 00:00:00.000000  Bangalore    31        31        21     61     9
+25  2020-06-26 00:00:00.000000  Bangalore    32        32        28     62     9
+26  2020-06-27 00:00:00.000000  Bangalore    35        35        28     64     8
+27  2020-06-28 00:00:00.000000  Bangalore    36        36        20     63     9
+28  2020-06-29 00:00:00.000000  Bangalore    39        39        24     61     9
+29  2020-06-30 00:00:00.000000  Bangalore    33        33        19     62     8
+2020-07-03/10:21:18		user says: {'additional_properties': {}, 'type': 'message', 'id': 'd52e3030-bce8-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 51, 18, 322000, tzinfo=<isodate.tzinfo.Utc object at 0x0000020F836A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 21, 18, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020F8CDC5130>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000020F8CDC5160>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020F8CDC51C0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593751878311t8lngt9gmob', 'clientTimestamp': '2020-07-03T04:51:18.311Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:21:36		user says: {'additional_properties': {}, 'type': 'message', 'id': 'e0179d60-bce8-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 51, 36, 630000, tzinfo=<isodate.tzinfo.Utc object at 0x0000020F836A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 21, 36, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020F8CDE7BE0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000020F8CDE79A0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020F8CDE7F40>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Show me weather of Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937518966276e9p48qnny', 'clientTimestamp': '2020-07-03T04:51:36.627Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:21:38		Bot Says: Today the weather in bangalore.
+ Maximum Temperature :24.0 degree celsius.
+ Minimum Temperature :24.0 degree celsius. . 
+ Humidity: 78
+2020-07-03/10:26:56		user says: {'additional_properties': {}, 'type': 'message', 'id': '9ec93610-bce9-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 56, 56, 561000, tzinfo=<isodate.tzinfo.Utc object at 0x0000020F836A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 26, 56, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020F8CDC5370>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000020F8CDC5280>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020F8CDC58E0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me historical weather of bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593752216552j9nw3apxjbs', 'clientTimestamp': '2020-07-03T04:56:56.552Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:26:58		Bot Says: Today the weather in bangalore.
+ Maximum Temperature :24.0 degree celsius.
+ Minimum Temperature :24.0 degree celsius. . 
+ Humidity: 78
+2020-07-03/10:29:16		user says: {'additional_properties': {}, 'type': 'message', 'id': 'f27c0f80-bce9-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 4, 59, 16, 984000, tzinfo=<isodate.tzinfo.Utc object at 0x00000252036A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 10, 29, 16, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CDC6130>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002520CDC6160>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CDC61C0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'show me historical weather of bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593752356975qiqm81q3p6e', 'clientTimestamp': '2020-07-03T04:59:16.975Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/10:29:18		Bot Says:                           Date       City  Temp  max_temp  min_temp  Humid  Wind
+0   2020-06-01 00:00:00.000000  Bangalore    35        35        26     62     9
+1   2020-06-02 00:00:00.000000  Bangalore    34        34        20     61     8
+2   2020-06-03 00:00:00.000000  Bangalore    36        36        23     64     9
+3   2020-06-04 00:00:00.000000  Bangalore    32        32        28     60     8
+4   2020-06-05 00:00:00.000000  Bangalore    33        33        27     63     9
+5   2020-06-06 00:00:00.000000  Bangalore    39        39        22     60     7
+6   2020-06-07 00:00:00.000000  Bangalore    34        34        19     64     8
+7   2020-06-08 00:00:00.000000  Bangalore    39        39        19     62     8
+8   2020-06-09 00:00:00.000000  Bangalore    36        36        19     63     7
+9   2020-06-10 00:00:00.000000  Bangalore    36        36        24     62     9
+10  2020-06-11 00:00:00.000000  Bangalore    31        31        21     62     8
+11  2020-06-12 00:00:00.000000  Bangalore    31        31        23     64     9
+12  2020-06-13 00:00:00.000000  Bangalore    33        33        19     61     8
+13  2020-06-14 00:00:00.000000  Bangalore    37        37        26     62     8
+14  2020-06-15 00:00:00.000000  Bangalore    40        40        23     64     8
+15  2020-06-16 00:00:00.000000  Bangalore    31        31        28     60     8
+16  2020-06-17 00:00:00.000000  Bangalore    30        30        27     64     8
+17  2020-06-18 00:00:00.000000  Bangalore    33        33        27     62     9
+18  2020-06-19 00:00:00.000000  Bangalore    31        31        18     61     9
+19  2020-06-20 00:00:00.000000  Bangalore    33        33        23     60     7
+20  2020-06-21 00:00:00.000000  Bangalore    32        32        27     62     8
+21  2020-06-22 00:00:00.000000  Bangalore    32        32        18     63     7
+22  2020-06-23 00:00:00.000000  Bangalore    40        40        25     63     8
+23  2020-06-24 00:00:00.000000  Bangalore    39        39        18     64     9
+24  2020-06-25 00:00:00.000000  Bangalore    31        31        21     61     9
+25  2020-06-26 00:00:00.000000  Bangalore    32        32        28     62     9
+26  2020-06-27 00:00:00.000000  Bangalore    35        35        28     64     8
+27  2020-06-28 00:00:00.000000  Bangalore    36        36        20     63     9
+28  2020-06-29 00:00:00.000000  Bangalore    39        39        24     61     9
+29  2020-06-30 00:00:00.000000  Bangalore    33        33        19     62     8
+2020-07-03/11:04:38		user says: {'additional_properties': {}, 'type': 'message', 'id': 'e2d2b700-bcee-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 5, 34, 38, 191000, tzinfo=<isodate.tzinfo.Utc object at 0x00000252036A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 11, 4, 38, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CE15FA0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002520CE150A0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CE158B0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Hi', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593754478163f9dkiyzjubl', 'clientTimestamp': '2020-07-03T05:34:38.163Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/11:05:02		user says: {'additional_properties': {}, 'type': 'message', 'id': 'f1849de0-bcee-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 5, 35, 2, 846000, tzinfo=<isodate.tzinfo.Utc object at 0x00000252036A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 11, 5, 2, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CCDC550>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002520CCDC8B0>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CCDC1F0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Show me Bangalore weather', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593754502841ccz6erc22fa', 'clientTimestamp': '2020-07-03T05:35:02.841Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/11:05:04		Bot Says: Today the weather in bangalore.
+ Maximum Temperature :25.0 degree celsius.
+ Minimum Temperature :25.0 degree celsius. . 
+ Humidity: 74
+2020-07-03/11:05:26		user says: {'additional_properties': {}, 'type': 'message', 'id': 'ff58cef0-bcee-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 5, 35, 26, 46000, tzinfo=<isodate.tzinfo.Utc object at 0x00000252036A50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 11, 5, 26, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CE58340>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x000002520CE58040>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x000002520CE580D0>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Show me historical weather in Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '15937545260410kkjmmlbm21h', 'clientTimestamp': '2020-07-03T05:35:26.041Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/11:05:27		Bot Says:                           Date       City  Temp  max_temp  min_temp  Humid  Wind
+0   2020-06-01 00:00:00.000000  Bangalore    35        35        26     62     9
+1   2020-06-02 00:00:00.000000  Bangalore    34        34        20     61     8
+2   2020-06-03 00:00:00.000000  Bangalore    36        36        23     64     9
+3   2020-06-04 00:00:00.000000  Bangalore    32        32        28     60     8
+4   2020-06-05 00:00:00.000000  Bangalore    33        33        27     63     9
+5   2020-06-06 00:00:00.000000  Bangalore    39        39        22     60     7
+6   2020-06-07 00:00:00.000000  Bangalore    34        34        19     64     8
+7   2020-06-08 00:00:00.000000  Bangalore    39        39        19     62     8
+8   2020-06-09 00:00:00.000000  Bangalore    36        36        19     63     7
+9   2020-06-10 00:00:00.000000  Bangalore    36        36        24     62     9
+10  2020-06-11 00:00:00.000000  Bangalore    31        31        21     62     8
+11  2020-06-12 00:00:00.000000  Bangalore    31        31        23     64     9
+12  2020-06-13 00:00:00.000000  Bangalore    33        33        19     61     8
+13  2020-06-14 00:00:00.000000  Bangalore    37        37        26     62     8
+14  2020-06-15 00:00:00.000000  Bangalore    40        40        23     64     8
+15  2020-06-16 00:00:00.000000  Bangalore    31        31        28     60     8
+16  2020-06-17 00:00:00.000000  Bangalore    30        30        27     64     8
+17  2020-06-18 00:00:00.000000  Bangalore    33        33        27     62     9
+18  2020-06-19 00:00:00.000000  Bangalore    31        31        18     61     9
+19  2020-06-20 00:00:00.000000  Bangalore    33        33        23     60     7
+20  2020-06-21 00:00:00.000000  Bangalore    32        32        27     62     8
+21  2020-06-22 00:00:00.000000  Bangalore    32        32        18     63     7
+22  2020-06-23 00:00:00.000000  Bangalore    40        40        25     63     8
+23  2020-06-24 00:00:00.000000  Bangalore    39        39        18     64     9
+24  2020-06-25 00:00:00.000000  Bangalore    31        31        21     61     9
+25  2020-06-26 00:00:00.000000  Bangalore    32        32        28     62     9
+26  2020-06-27 00:00:00.000000  Bangalore    35        35        28     64     8
+27  2020-06-28 00:00:00.000000  Bangalore    36        36        20     63     9
+28  2020-06-29 00:00:00.000000  Bangalore    39        39        24     61     9
+29  2020-06-30 00:00:00.000000  Bangalore    33        33        19     62     8
+2020-07-03/11:08:12		user says: {'additional_properties': {}, 'type': 'message', 'id': '624cd6f0-bcef-11ea-8932-3130bc9d12be', 'timestamp': datetime.datetime(2020, 7, 3, 5, 38, 12, 62000, tzinfo=<isodate.tzinfo.Utc object at 0x0000020D824E50A0>), 'local_timestamp': datetime.datetime(2020, 7, 3, 11, 8, 12, tzinfo=<FixedOffset '+05:30'>), 'local_timezone': None, 'service_url': 'http://localhost:55847', 'channel_id': 'emulator', 'from_property': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020D8BC080D0>, 'conversation': <botbuilder.schema._models_py3.ConversationAccount object at 0x0000020D8BC08100>, 'recipient': <botbuilder.schema._models_py3.ChannelAccount object at 0x0000020D8BC08160>, 'text_format': 'plain', 'attachment_layout': None, 'members_added': None, 'members_removed': None, 'reactions_added': None, 'reactions_removed': None, 'topic_name': None, 'history_disclosed': None, 'locale': None, 'text': 'Show me historical weather in Bangalore', 'speak': None, 'input_hint': None, 'summary': None, 'suggested_actions': None, 'attachments': None, 'entities': None, 'channel_data': {'clientActivityID': '1593754692055t43dvhdmsi7', 'clientTimestamp': '2020-07-03T05:38:12.055Z'}, 'action': None, 'reply_to_id': None, 'label': None, 'value_type': None, 'value': None, 'name': None, 'relates_to': None, 'code': None, 'expiration': None, 'importance': None, 'delivery_mode': None, 'listen_for': None, 'text_highlights': None, 'semantic_action': None, 'caller_id': None}
+2020-07-03/11:08:13		Bot Says: <table border="0" class="dataframe table table-striped table-responsive-sm table-sm resulttable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Date</th>
+      <th>City</th>
+      <th>Temp</th>
+      <th>max_temp</th>
+      <th>min_temp</th>
+      <th>Humid</th>
+      <th>Wind</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2020-06-01 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>35</td>
+      <td>35</td>
+      <td>26</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-02 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>34</td>
+      <td>34</td>
+      <td>20</td>
+      <td>61</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-03 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>23</td>
+      <td>64</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-04 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>28</td>
+      <td>60</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-05 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>27</td>
+      <td>63</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-06 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>22</td>
+      <td>60</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-07 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>34</td>
+      <td>34</td>
+      <td>19</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-08 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>19</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-09 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>19</td>
+      <td>63</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-10 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>24</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-11 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>21</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-12 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>23</td>
+      <td>64</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-13 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>19</td>
+      <td>61</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-14 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>37</td>
+      <td>37</td>
+      <td>26</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-15 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>40</td>
+      <td>40</td>
+      <td>23</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-16 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>28</td>
+      <td>60</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-17 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>30</td>
+      <td>30</td>
+      <td>27</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-18 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>27</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-19 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>18</td>
+      <td>61</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-20 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>23</td>
+      <td>60</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-21 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>27</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-22 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>18</td>
+      <td>63</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>2020-06-23 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>40</td>
+      <td>40</td>
+      <td>25</td>
+      <td>63</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-24 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>18</td>
+      <td>64</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-25 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>31</td>
+      <td>31</td>
+      <td>21</td>
+      <td>61</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-26 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>32</td>
+      <td>32</td>
+      <td>28</td>
+      <td>62</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-27 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>35</td>
+      <td>35</td>
+      <td>28</td>
+      <td>64</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>2020-06-28 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>36</td>
+      <td>36</td>
+      <td>20</td>
+      <td>63</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-29 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>39</td>
+      <td>39</td>
+      <td>24</td>
+      <td>61</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2020-06-30 00:00:00.000000</td>
+      <td>Bangalore</td>
+      <td>33</td>
+      <td>33</td>
+      <td>19</td>
+      <td>62</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
