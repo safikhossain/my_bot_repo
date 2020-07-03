@@ -10,7 +10,7 @@ from logger.logger import Log
 app = Flask(__name__)
 loop = asyncio.get_event_loop()
 
-bot_settings = BotFrameworkAdapterSettings("985e09f6-a0d9-4db1-af68-fe3fd2e2b98a", "~P_k5KLvAWeNs_VI.GFbJi1-.0KBK1528C")
+bot_settings = BotFrameworkAdapterSettings("", "")
 bot_adapter = BotFrameworkAdapter(bot_settings)
 
 #CON_MEMORY = ConversationState(MemoryStorage())
@@ -41,5 +41,5 @@ def messages():
 
 
 if __name__ == '__main__':
-    #app.run('localhost',3978,debug=True)
-    app.run(debug=True)
+    app.run('localhost',3978,debug=True)
+    #app.run(debug=True)
