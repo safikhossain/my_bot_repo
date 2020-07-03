@@ -57,6 +57,8 @@ pyowm==2.10.0
 pyparsing==2.4.6
 python-dateutil==2.8.1
 pytz==2019.3
+pandas==1.0.5
+pandasql==0.7.3
 recognizers-text==1.0.2a2
 recognizers-text-choice==1.0.2a2
 recognizers-text-date-time==1.0.2a2
