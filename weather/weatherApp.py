@@ -1,12 +1,13 @@
 import string
 import pandas as pd
 from pandasql import sqldf
+#from tabulate import tabulate
 
 import pyowm
 from config.config_reader import ConfigReader
 
 pysqldf = lambda q: sqldf(q, globals())
-w_data = pd.read_excel("C:\\Users\\shossain\\Documents\\Projects\\Chatbot Sourav\\Azure\\weatherbot\\Data\\weather_data.xlsx")
+w_data = pd.read_excel("C:\\Users\\shossain\\Documents\\Projects\\Chatbot Sourav\\Azure\\weatherbot\\my_bot_repo_1\\Data\\weather_data.xlsx")
 
 class WeatherInformation():
     def __init__(self):
@@ -38,8 +39,8 @@ class WeatherInformation():
 
         MainQuery="select  Date, City,Temp, max_temp,min_temp,Humid, Wind from w_data where "+"City="+"'"+string.capwords(city)+"'"
         res=pysqldf(MainQuery)
-        res=res.to_html(index=False,border=0,classes='table table-striped table-responsive-sm table-sm resulttable')
-    
+        #res = tabulate(res)
+        res=res.to_html(index=False,border=0)   
         
         self.bot_replies = res
         return self.bot_replies

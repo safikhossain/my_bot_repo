@@ -4,6 +4,7 @@ import json
 from weather.weatherApp import WeatherInformation
 from config.config_reader import ConfigReader
 from logger.logger import Log
+
 class LuisConnect(ActivityHandler):
     def __init__(self):
         self.config_reader = ConfigReader()
