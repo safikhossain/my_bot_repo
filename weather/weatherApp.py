@@ -8,7 +8,8 @@ import pyowm
 from config.config_reader import ConfigReader
 
 pysqldf = lambda q: sqldf(q, globals())
-w_data = pd.read_excel("C:\\Users\\shossain\\Documents\\Projects\\Chatbot Sourav\\Azure\\weatherbot\\my_bot_repo_1\\Data\\weather_data.xlsx")
+#w_data = pd.read_excel("C:\\Users\\shossain\\Documents\\Projects\\Chatbot Sourav\\Azure\\weatherbot\\my_bot_repo_1\\Data\\weather_data.xlsx")
+w_data = pd.read_excel("./Data/weather_data.xlsx",sheet_name='Sheet1')
 
 class WeatherInformation():
     def __init__(self):
