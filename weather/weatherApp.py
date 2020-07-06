@@ -1,6 +1,7 @@
 import string
 import pandas as pd
 from pandasql import sqldf
+import xlrd
 #from tabulate import tabulate
 
 import pyowm
